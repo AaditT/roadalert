@@ -11,7 +11,7 @@ def classify():
 
     delete_cmd = "rm output.txt"
     classify_cmd = "python3 -m scripts.label_image --graph=tf_files/retrained_graph.pb --image=road.jpeg > output.txt"
-
+    os.system("fswebcam road.jpg")
     os.system(delete_cmd)
     os.system(classify_cmd)
 
