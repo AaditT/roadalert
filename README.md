@@ -1,5 +1,5 @@
 # roadalert
-
+<img src="https://townsquare.media/site/385/files/2019/02/GettyImages-929942316.jpg?w=980&q=75">
 ## Motivation
 When I visited India last summer, I noticed that majority of the mainstream roads were inadequately maintained. Surprised by the normality of significantly damaged roads, I conducted some preliminary research on potholes. The main causes of potholes are poor drainage systems, weak road construction material, and rare road maintenance. I also found that from 2013 to 2016, potholes had caused 11,836 deaths and 36,421 injuries in India. In 2016 alone, there were about 6 deaths a day due to potholes in India. Thus, my goal was to create a solution that mitigates the harmful impacts of potholes and improves driver safety. 
 
